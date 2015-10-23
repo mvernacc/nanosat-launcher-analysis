@@ -8,7 +8,7 @@ Launcher Perofrmance
 --------------------
 See dv.py.
 
-A delta-v of approximately 9 km/s is required to reach Low Earth Orbit. Using current propulsion technology, a 4-stage launcher capable of providing 9.5 km/s dv to a 10 kg payload will have a mass of the pad of about 3300 kg.
+A delta-v of approximately 9 km/s is required to reach Low Earth Orbit. Using current propulsion technology, a 4-stage launcher capable of providing 9.5 km/s dv to a 10 kg payload will have a mass on the pad of about 3300 kg.
 
 
 Launcher Cost
